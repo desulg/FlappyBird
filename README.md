@@ -8,3 +8,5 @@ Samuti on rakendus vigane või mitte täiuslik. Vahepeal juhtub, et uued torud, 
 Git projektis on README.md, kus kirjeldatakse vajalikest muutustest seoses SDK versiooni muutustega. Et Androidi peal jooksutada oli vajalik, et Android Studio oleks installitud ja kõik vajalikud libraryd sellega, et Unity suudaks SDK ja JDK külge panna. Peale selle ei olnud vaja midagi teha, Unity installimisega tulid kõik asjad kohe ise kaasa.
 
 Git projektis on README.md, kus kirjeldatakse juhendi muudest muutustest rakenduse terviklikumaks muutmise nimel. Üritasin lisada tausta, et see oleks karakteri taga kui lendaks, aga see osutus keeruliseks ja ei leidnud mingit head juhendit ka mille järgi sedas teostada. Üritasin ka teisest punktis mainitud torude probleemi lahendada, kuid ei leidnud, kuidas seda saaks paremaks muuta.
+
+![alt text](https://raw.githubusercontent.com/desulg/FlappyBird/master/sc1.JPG)
